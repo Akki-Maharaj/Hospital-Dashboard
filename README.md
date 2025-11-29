@@ -61,22 +61,22 @@ A comprehensive healthcare data visualization dashboard built for hospital manag
 ## 🖥️ Screenshots
 
 ### Home Dashboard
-*Central navigation with quick access to all sections*
+![Central navigation with quick access to all sections](Images/Screenshots/Home.png)
 
 ### Doctor Dashboard
-*Staff information including Dr. Neha Verma (Neurologist) with appointment tracking and ratings*
+![Staff information including Dr. Neha Verma (Neurologist) with appointment tracking and ratings](Images/Screenshots/Doctor.png)
 
 ### Finance Dashboard
-*Revenue analytics showing $713.81K total bill amount and medicine sales data*
+![Revenue analytics showing $713.81K total bill amount and medicine sales data](Images/Screenshots/Finance.png)
 
 ### Overview Dashboard
-*Hospital overview with 3D building visualization and section descriptions*
+![Hospital overview with 3D building visualization and section descriptions](Images/Screenshots/Overview.png)
 
 ### Hospital Dashboard
-*Operational data including surgery schedules, patient tests, and bed management*
+![Operational data including surgery schedules, patient tests, and bed management](Images/Screenshots/Hospital.png)
 
 ### Patient Dashboard
-*Individual patient profiles like Anita Saxena with personal details, treatment history, and billing*
+![Individual patient profiles like Anita Saxena with personal details, treatment history, and billing](Images/Screenshots/Patient.png)
 
 ## 🚀 Getting Started
 
@@ -142,29 +142,10 @@ This dashboard integrates data from:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📸 Screenshots
-### 🏠 Home Page  
-![Home](Images/Screenshots/Home.png)
-
-### 📊 Overview Dashboard  
-![Overview](Images/Screenshots/Overview.png)
-
-### 🧑‍🤝‍🧑 Patient Dashboard  
-![Patient](Images/Screenshots/Patient.png)
-
-### 👨‍⚕️ Doctor Dashboard  
-![Doctor](Images/Screenshots/Doctor.png)
-
-### 🏨 Hospital Dashboard  
-![Hospital](Images/Screenshots/Hospital.png)
-
-### 💰 Finance Dashboard  
-![Finance](Images/Screenshots/Finance.png)
-
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Akki Maharaj**
 - GitHub: [Akki-Maharaj](https://github.com/Akki-Maharaj)
 - LinkedIn: [Akshat](https://linkedin.com/in/akshat--)
 
