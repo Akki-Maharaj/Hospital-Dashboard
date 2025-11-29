@@ -12,6 +12,14 @@ This dashboard reveals a well-functioning hospital with strong operational metri
 
 **Areas for Growth**: Medicine inventory management needs attention - several critical drugs are nearing reorder points. Additionally, doctor availability on Mondays and Fridays suggests scheduling inefficiencies.
 
+## 📑 Table of Contents
+- [Data Story](#-the-data-story)
+- [Features](#-features)
+- [Screenshots](#️-screenshots)
+- [Key Findings](#-key-findings--insights)
+- [Recommendations](#-recommendations-based-on-analysis)
+- [Installation](#-getting-started)
+
 ## 🏥 Features
 
 ### Multi-Page Dashboard System
@@ -221,6 +229,13 @@ This dashboard integrates data from:
 - Monitor medicine sales and profitability
 - Generate financial reports and insights
 
+## 🛠️ Built With
+
+- **Power BI** - Data visualization and dashboard creation
+- **DAX** - Advanced calculations and measures
+- **Power Query** - Data transformation
+- **Data Modeling** - Star schema with 6+ related tables
+
 ## 🤝 Contributing
 
 1. Fork the project
@@ -228,7 +243,6 @@ This dashboard integrates data from:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
 
 ## 👨‍💻 Author
 
