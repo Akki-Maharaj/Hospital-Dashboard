@@ -175,7 +175,7 @@ This dashboard reveals a well-functioning hospital with strong operational metri
 ### Installation
 1. Clone this repository
 ```bash
-git clone https://github.com/Akki-Maharaj/hospital-patient-dashboard.git
+git clone https://github.com/Akki-Maharaj/hospital-dashboard.git
 ```
 
 2. Open the dashboard file in Power BI Desktop
