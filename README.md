@@ -88,7 +88,7 @@ A comprehensive healthcare data visualization dashboard built for hospital manag
 ### Installation
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/hospital-patient-dashboard.git
+git clone https://github.com/Akki-Maharaj/hospital-patient-dashboard.git
 ```
 
 2. Open the dashboard file in Power BI Desktop
